@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(132, 191, 209);
+}
+
+.form {
+  width: 250px;
+  height: 350px;
+  background: rgb(240, 241, 243);
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 500px;
+  border-radius: 15px;
+  padding: 25px;
+}
+.don {
+  height: 260px;
+  width: 260px;
+  background-image: url(assignmentpic.jpeg);
+  background-size: cover;
+  position: absolute;
+  margin-top: 165px;
+  margin-left: 520px;
+  border-radius: 5px;
+}
+
+.form h2 {
+  color: rgb(3, 2, 0);
+  letter-spacing: 1px;
+  padding-left: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 22px;
+  margin-top: 100%;
+}
+.form h3 {
+  color: rgba(61, 59, 53, 0.473);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+  font-size: 15px;
+  margin-top: 5px;
+}
